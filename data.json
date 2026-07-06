@@ -1,0 +1,1341 @@
+{
+  "lastUpdated": "2026-07-06",
+  "players": [
+    {
+      "chit": 33,
+      "name": "Khaled Gharib",
+      "pair": "France + Mexico",
+      "teams": [
+        "France",
+        "Mexico"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 9,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 24,
+      "rank": 1
+    },
+    {
+      "chit": 32,
+      "name": "Abdul Wadood",
+      "pair": "Argentina + Colombia",
+      "teams": [
+        "Argentina",
+        "Colombia"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 7,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 22,
+      "rank": 2
+    },
+    {
+      "chit": 66,
+      "name": "Isaac Ackom-Mensah",
+      "pair": "England + Mexico",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 9,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 22,
+      "rank": 2
+    },
+    {
+      "chit": 72,
+      "name": "Nur Aksari",
+      "pair": "Argentina + Switzerland",
+      "teams": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 7,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 22,
+      "rank": 2
+    },
+    {
+      "chit": 42,
+      "name": "Shinan Zhang",
+      "pair": "Argentina + Norway",
+      "teams": [
+        "Argentina",
+        "Norway"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 6,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 21,
+      "rank": 5
+    },
+    {
+      "chit": 25,
+      "name": "Danilo Arba",
+      "pair": "Spain + Morocco",
+      "teams": [
+        "Spain",
+        "Morocco"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 7,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 20,
+      "rank": 6
+    },
+    {
+      "chit": 65,
+      "name": "Rishi Parekh",
+      "pair": "Spain + Colombia",
+      "teams": [
+        "Spain",
+        "Colombia"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 7,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 20,
+      "rank": 6
+    },
+    {
+      "chit": 15,
+      "name": "Marissa Canete",
+      "pair": "Spain + Norway",
+      "teams": [
+        "Spain",
+        "Norway"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 6,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 19,
+      "rank": 8
+    },
+    {
+      "chit": 23,
+      "name": "Ermelinda Dedej",
+      "pair": "France + Ivory Coast",
+      "teams": [
+        "France",
+        "Ivory Coast"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 6,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 18,
+      "rank": 9
+    },
+    {
+      "chit": 21,
+      "name": "Mohamed Hassan",
+      "pair": "Brazil + Egypt",
+      "teams": [
+        "Brazil",
+        "Egypt"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 5,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 18,
+      "rank": 9
+    },
+    {
+      "chit": 17,
+      "name": "Yusuf Mahmood",
+      "pair": "Portugal + Switzerland",
+      "teams": [
+        "Portugal",
+        "Switzerland"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 7,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 18,
+      "rank": 9
+    },
+    {
+      "chit": 67,
+      "name": "Mahmoud Eltahawy",
+      "pair": "Portugal + USA",
+      "teams": [
+        "Portugal",
+        "USA"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 6,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 17,
+      "rank": 12
+    },
+    {
+      "chit": 35,
+      "name": "Sanmi Akanmidu",
+      "pair": "Spain + Canada",
+      "teams": [
+        "Spain",
+        "Canada"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": 3,
+      "total": 17,
+      "rank": 12
+    },
+    {
+      "chit": 62,
+      "name": "Amr Shalaby",
+      "pair": "Argentina + Australia",
+      "teams": [
+        "Argentina",
+        "Australia"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 16,
+      "rank": 14
+    },
+    {
+      "chit": 63,
+      "name": "Antony Brania",
+      "pair": "France + Ecuador",
+      "teams": [
+        "France",
+        "Ecuador"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 16,
+      "rank": 14
+    },
+    {
+      "chit": 13,
+      "name": "Christian Wesse",
+      "pair": "France + Bosnia",
+      "teams": [
+        "France",
+        "Bosnia"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 16,
+      "rank": 14
+    },
+    {
+      "chit": 12,
+      "name": "Hassan Aftab",
+      "pair": "Argentina + South Africa",
+      "teams": [
+        "Argentina",
+        "South Africa"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 16,
+      "rank": 14
+    },
+    {
+      "chit": 22,
+      "name": "Michael Timothy",
+      "pair": "Argentina + Congo DR",
+      "teams": [
+        "Argentina",
+        "Congo DR"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 16,
+      "rank": 14
+    },
+    {
+      "chit": 73,
+      "name": "Mohammed Hassan",
+      "pair": "France + Sweden",
+      "teams": [
+        "France",
+        "Sweden"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 16,
+      "rank": 14
+    },
+    {
+      "chit": 34,
+      "name": "Marwan Mohamed",
+      "pair": "Germany + USA",
+      "teams": [
+        "Germany",
+        "USA"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 6,
+      "t1_r32": null,
+      "t2_r32": 3,
+      "total": 15,
+      "rank": 20
+    },
+    {
+      "chit": 61,
+      "name": "Mohamed Elnijomy",
+      "pair": "Brazil + Japan",
+      "teams": [
+        "Brazil",
+        "Japan"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 5,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 15,
+      "rank": 20
+    },
+    {
+      "chit": 74,
+      "name": "Nadeem",
+      "pair": "Germany + Norway",
+      "teams": [
+        "Germany",
+        "Norway"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 6,
+      "t1_r32": null,
+      "t2_r32": 3,
+      "total": 15,
+      "rank": 20
+    },
+    {
+      "chit": 68,
+      "name": "Fatimah Habib",
+      "pair": "Netherlands + Canada",
+      "teams": [
+        "Netherlands",
+        "Canada"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": 3,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 45,
+      "name": "Ibrahim Baki",
+      "pair": "Spain + South Africa",
+      "teams": [
+        "Spain",
+        "South Africa"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 16,
+      "name": "Jim Oliver",
+      "pair": "England + Austria",
+      "teams": [
+        "England",
+        "Austria"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 37,
+      "name": "Kwesi Abraham",
+      "pair": "Portugal + Croatia",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 6,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 41,
+      "name": "Linah Elmansy",
+      "pair": "Brazil + Sweden",
+      "teams": [
+        "Brazil",
+        "Sweden"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 75,
+      "name": "Maryam Esnaashari",
+      "pair": "Spain + Austria",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 31,
+      "name": "Qasim Alvi",
+      "pair": "Brazil + Ecuador",
+      "teams": [
+        "Brazil",
+        "Ecuador"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 14,
+      "rank": 23
+    },
+    {
+      "chit": 52,
+      "name": "Alfredo Vila",
+      "pair": "Argentina + Curaçao",
+      "teams": [
+        "Argentina",
+        "Curaçao"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 3,
+      "name": "Ali Al Mehthel",
+      "pair": "France + Curaçao",
+      "teams": [
+        "France",
+        "Curaçao"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 56,
+      "name": "Amer Qumsieh",
+      "pair": "England + Cabo Verde",
+      "teams": [
+        "England",
+        "Cabo Verde"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 71,
+      "name": "Dave Elder",
+      "pair": "Brazil + Scotland",
+      "teams": [
+        "Brazil",
+        "Scotland"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 26,
+      "name": "Edward Hunt",
+      "pair": "England + Iran",
+      "teams": [
+        "England",
+        "Iran"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 43,
+      "name": "Hamad Nassir",
+      "pair": "France + Czechia",
+      "teams": [
+        "France",
+        "Czechia"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 36,
+      "name": "Iftekhar Masih",
+      "pair": "England + Türkiye",
+      "teams": [
+        "England",
+        "Türkiye"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 64,
+      "name": "Jack Clark",
+      "pair": "Germany + Paraguay",
+      "teams": [
+        "Germany",
+        "Paraguay"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": 3,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 5,
+      "name": "Mohamed Abdullah",
+      "pair": "Spain + Cabo Verde",
+      "teams": [
+        "Spain",
+        "Cabo Verde"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 13,
+      "rank": 30
+    },
+    {
+      "chit": 39,
+      "name": "Abdulrahman Kharfan",
+      "pair": "Belgium + Austria",
+      "teams": [
+        "Belgium",
+        "Austria"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 77,
+      "name": "Eric Albentosa",
+      "pair": "Portugal + Bosnia",
+      "teams": [
+        "Portugal",
+        "Bosnia"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 2,
+      "name": "Harrison Chan",
+      "pair": "Argentina + Uzbekistan",
+      "teams": [
+        "Argentina",
+        "Uzbekistan"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 83,
+      "name": "Jama Jama",
+      "pair": "France + Panama",
+      "teams": [
+        "France",
+        "Panama"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 19,
+      "name": "Jejomar Balolong",
+      "pair": "Belgium + Ghana",
+      "teams": [
+        "Belgium",
+        "Ghana"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 40,
+      "name": "Manuel David",
+      "pair": "Uruguay + Switzerland",
+      "teams": [
+        "Uruguay",
+        "Switzerland"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 7,
+      "t1_r32": null,
+      "t2_r32": 3,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 29,
+      "name": "Matthew Templora",
+      "pair": "Belgium + Australia",
+      "teams": [
+        "Belgium",
+        "Australia"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 53,
+      "name": "Mohamed Ashraf",
+      "pair": "France + Uzbekistan",
+      "teams": [
+        "France",
+        "Uzbekistan"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 82,
+      "name": "Norah Alburaykan",
+      "pair": "Argentina + Iraq",
+      "teams": [
+        "Argentina",
+        "Iraq"
+      ],
+      "t1_gs": 9,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 57,
+      "name": "Omar Elleithy",
+      "pair": "Portugal + Ghana",
+      "teams": [
+        "Portugal",
+        "Ghana"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 4,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 28,
+      "name": "Ramz Aftab",
+      "pair": "Netherlands + Japan",
+      "teams": [
+        "Netherlands",
+        "Japan"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 5,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 12,
+      "rank": 39
+    },
+    {
+      "chit": 55,
+      "name": "Abdullahi Baba Ari",
+      "pair": "Spain + New Zealand",
+      "teams": [
+        "Spain",
+        "New Zealand"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 69,
+      "name": "Amulya Ekka",
+      "pair": "Belgium + Türkiye",
+      "teams": [
+        "Belgium",
+        "Türkiye"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 58,
+      "name": "Andrew Wiggins",
+      "pair": "Netherlands + Algeria",
+      "teams": [
+        "Netherlands",
+        "Algeria"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 11,
+      "name": "Basem Sofan",
+      "pair": "Brazil + Qatar",
+      "teams": [
+        "Brazil",
+        "Qatar"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 89,
+      "name": "Busiswa Mswelanto",
+      "pair": "Belgium + Cabo Verde",
+      "teams": [
+        "Belgium",
+        "Cabo Verde"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 76,
+      "name": "Ishraque Chowdhury",
+      "pair": "England + Czechia",
+      "teams": [
+        "England",
+        "Czechia"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 46,
+      "name": "Khalid Zawaideh",
+      "pair": "England + Qatar",
+      "teams": [
+        "England",
+        "Qatar"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 78,
+      "name": "Nasser Almahawas",
+      "pair": "Netherlands + South Africa",
+      "teams": [
+        "Netherlands",
+        "South Africa"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 27,
+      "name": "Stuart Hall",
+      "pair": "Portugal + Korea Republic",
+      "teams": [
+        "Portugal",
+        "Korea Republic"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 85,
+      "name": "Suhail",
+      "pair": "Spain + Curaçao",
+      "teams": [
+        "Spain",
+        "Curaçao"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 18,
+      "name": "Tanaka Tande",
+      "pair": "Netherlands + Sweden",
+      "teams": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 6,
+      "name": "Tanya De Villiers",
+      "pair": "England + New Zealand",
+      "teams": [
+        "England",
+        "New Zealand"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 59,
+      "name": "Waheed Akhtar",
+      "pair": "Belgium + Iran",
+      "teams": [
+        "Belgium",
+        "Iran"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 3,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 11,
+      "rank": 50
+    },
+    {
+      "chit": 81,
+      "name": "Abdullah Zain",
+      "pair": "Brazil + Tunisia",
+      "teams": [
+        "Brazil",
+        "Tunisia"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 1,
+      "name": "Ahmad Abed",
+      "pair": "Brazil + Jordan",
+      "teams": [
+        "Brazil",
+        "Jordan"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 51,
+      "name": "Ilyass Suliman",
+      "pair": "Brazil + Haiti",
+      "teams": [
+        "Brazil",
+        "Haiti"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 86,
+      "name": "Maryia Vasko",
+      "pair": "England + Uzbekistan",
+      "teams": [
+        "England",
+        "Uzbekistan"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 47,
+      "name": "Mohamed Bahy",
+      "pair": "Portugal + Saudi Arabia",
+      "teams": [
+        "Portugal",
+        "Saudi Arabia"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 2,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 38,
+      "name": "Talha Timol",
+      "pair": "Netherlands + Scotland",
+      "teams": [
+        "Netherlands",
+        "Scotland"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 3,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 44,
+      "name": "Tumisho Sefala",
+      "pair": "Germany + Bosnia",
+      "teams": [
+        "Germany",
+        "Bosnia"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 10,
+      "rank": 63
+    },
+    {
+      "chit": 24,
+      "name": "Christo Smal",
+      "pair": "Germany + Senegal",
+      "teams": [
+        "Germany",
+        "Senegal"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 3,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 9,
+      "rank": 70
+    },
+    {
+      "chit": 30,
+      "name": "Joanne Thomas",
+      "pair": "Uruguay + Paraguay",
+      "teams": [
+        "Uruguay",
+        "Paraguay"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": 3,
+      "total": 9,
+      "rank": 70
+    },
+    {
+      "chit": 79,
+      "name": "Mohamad Hallak",
+      "pair": "Belgium + Qatar",
+      "teams": [
+        "Belgium",
+        "Qatar"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 1,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 9,
+      "rank": 70
+    },
+    {
+      "chit": 87,
+      "name": "David Simavorian",
+      "pair": "Portugal + Jordan",
+      "teams": [
+        "Portugal",
+        "Jordan"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 8,
+      "rank": 73
+    },
+    {
+      "chit": 70,
+      "name": "Glen Maroney",
+      "pair": "Uruguay + Croatia",
+      "teams": [
+        "Uruguay",
+        "Croatia"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 6,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 8,
+      "rank": 73
+    },
+    {
+      "chit": 7,
+      "name": "Liban Warsame",
+      "pair": "Portugal + Panama",
+      "teams": [
+        "Portugal",
+        "Panama"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 8,
+      "rank": 73
+    },
+    {
+      "chit": 9,
+      "name": "Lubna Alhussaini",
+      "pair": "Belgium + Tunisia",
+      "teams": [
+        "Belgium",
+        "Tunisia"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 8,
+      "rank": 73
+    },
+    {
+      "chit": 49,
+      "name": "Rohit Nair",
+      "pair": "Belgium + Iraq",
+      "teams": [
+        "Belgium",
+        "Iraq"
+      ],
+      "t1_gs": 5,
+      "t2_gs": 0,
+      "t1_r32": 3,
+      "t2_r32": null,
+      "total": 8,
+      "rank": 73
+    },
+    {
+      "chit": 88,
+      "name": "Shahd Alessa",
+      "pair": "Netherlands + New Zealand",
+      "teams": [
+        "Netherlands",
+        "New Zealand"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 1,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 8,
+      "rank": 73
+    },
+    {
+      "chit": 14,
+      "name": "Irfan Mohammad",
+      "pair": "Germany + Czechia",
+      "teams": [
+        "Germany",
+        "Czechia"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 1,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 7,
+      "rank": 79
+    },
+    {
+      "chit": 8,
+      "name": "Medhat Gad",
+      "pair": "Netherlands + Iraq",
+      "teams": [
+        "Netherlands",
+        "Iraq"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 0,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 7,
+      "rank": 79
+    },
+    {
+      "chit": 48,
+      "name": "Stanford Chinyayi",
+      "pair": "Netherlands + Tunisia",
+      "teams": [
+        "Netherlands",
+        "Tunisia"
+      ],
+      "t1_gs": 7,
+      "t2_gs": 0,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 7,
+      "rank": 79
+    },
+    {
+      "chit": 4,
+      "name": "Alhatoon Alnafisah",
+      "pair": "Germany + Haiti",
+      "teams": [
+        "Germany",
+        "Haiti"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 0,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 6,
+      "rank": 82
+    },
+    {
+      "chit": 54,
+      "name": "Deya Alkhatatbeh",
+      "pair": "Germany + Jordan",
+      "teams": [
+        "Germany",
+        "Jordan"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 0,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 6,
+      "rank": 82
+    },
+    {
+      "chit": 20,
+      "name": "Haris Talal",
+      "pair": "Uruguay + Algeria",
+      "teams": [
+        "Uruguay",
+        "Algeria"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 4,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 6,
+      "rank": 82
+    },
+    {
+      "chit": 84,
+      "name": "Maclean Arthur",
+      "pair": "Germany + Haiti",
+      "teams": [
+        "Germany",
+        "Haiti"
+      ],
+      "t1_gs": 6,
+      "t2_gs": 0,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 6,
+      "rank": 82
+    },
+    {
+      "chit": 60,
+      "name": "Loay Ahmad",
+      "pair": "Uruguay + Korea Republic",
+      "teams": [
+        "Uruguay",
+        "Korea Republic"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 3,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 5,
+      "rank": 86
+    },
+    {
+      "chit": 80,
+      "name": "Hassan Zaheer",
+      "pair": "Uruguay + Saudi Arabia",
+      "teams": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 2,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 4,
+      "rank": 87
+    },
+    {
+      "chit": 10,
+      "name": "Laveen Khailany",
+      "pair": "Uruguay + Saudi Arabia",
+      "teams": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 2,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 4,
+      "rank": 87
+    },
+    {
+      "chit": 50,
+      "name": "Mohammed Nabil",
+      "pair": "Uruguay + Panama",
+      "teams": [
+        "Uruguay",
+        "Panama"
+      ],
+      "t1_gs": 2,
+      "t2_gs": 0,
+      "t1_r32": null,
+      "t2_r32": null,
+      "total": 2,
+      "rank": 89
+    }
+  ],
+  "totalPlayers": 89
+}
